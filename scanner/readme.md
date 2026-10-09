@@ -16,9 +16,10 @@ A simple TCP port scanner written in Python for learning **networking and cybers
 - Python 3
 - `socket`
 - `argparse`
-
-No external Python libraries are required.
-
+- `sys`
+- `concurrent.futures import ThreadPoolExecutor`
+- `datetime`
+- 
 ## 📁 Project Structure
 
 ```text
